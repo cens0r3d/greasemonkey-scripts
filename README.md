@@ -1,4 +1,4 @@
-# greasefork-scripts
+# greasemonkey-scripts
 
 Small collection of userscripts I actually run. Every script is self-contained, has no
 dependencies and lives in [`scripts/`](scripts/).
@@ -16,7 +16,7 @@ dependencies and lives in [`scripts/`](scripts/).
 2. Open the raw file, the manager offers to install it:
 
    ```
-   https://raw.githubusercontent.com/cens0r3d/greasefork-scripts/main/scripts/tiktok-live-auto-stay.user.js
+   https://raw.githubusercontent.com/cens0r3d/greasemonkey-scripts/main/scripts/tiktok-live-auto-stay.user.js
    ```
 
 3. Greasemonkey note: it blocks local `file://` installs by default. Either paste the file
